@@ -1,5 +1,5 @@
 
-## VoiceRecognision
+## VoiceRecognition
 
 This app try to recognise the sex of speaking person. It is simple concept based on Fast Fourier Transformation and decimate function with a pre-cleaning data. The signal is cut and analysing as an independent windows. Algorithm was tested on not too much noisy data and reached 96% accuracy.
 
